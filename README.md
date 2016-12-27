@@ -13,5 +13,6 @@ http://www.w3schools.com/angular/ -> Angular JS tutorial
 
 http://ionicframework.com/docs/?_ga=1.71186903.657047616.1481491193 -> Dokumentasi ionic
 
-
-[![Demo](https://www.youtube.com/watch?v=ipH4CL8xP2o)](https://www.youtube.com/watch?v=ipH4CL8xP2o)
+## Demo
+[![](https://github.com/jemsnaban/eclassukdwapp/blob/master/eclassukdwapp/www/assets/images/eclassraw.png)]
+(https://www.youtube.com/watch?v=ipH4CL8xP2o "Demo")
