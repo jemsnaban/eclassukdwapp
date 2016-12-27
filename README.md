@@ -1,7 +1,7 @@
 # eclassukdwapp
 
 Demo aplikasi Sistem Informasi Akademik (e-class)
-Aplikasi ini dibangun menggunakan ionic framework sehingga sudah dapat dideploy ke 3 platform sekaligus seperti Android, iOS, dan Windows Phone.
+Aplikasi ini dibangun menggunakan ionic framework (V2) sehingga sudah dapat dideploy ke 3 platform sekaligus seperti Android, iOS, dan Windows Phone.
 Walaupun masih jauh dari harapan (karena ini hanya sekadar demo, dan datanya masih dummy),  suatu saat aplikasi ini
 diharapkan bisa 'release'.
 
