@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/jemsnaban/ionicbase/eclassukdw/eclassukdwapp/platforms/android/build/intermediates/exploded-aar/android/CordovaLib/unspecified/debug/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bd5e57ce960a25ca6ce8a39e60350c1566b1462f">
+        <dex dex="/home/jemsnaban/ionicbase/eclassukdw/eclassukdwapp/platforms/android/build/intermediates/pre-dexed/debug/CordovaLib-unspecified-debug_446b48ee50bf45770bda12e2d72a84c49069903b.jar" />
+    </item>
+
+</items>
